@@ -1,7 +1,5 @@
 # INVM HSE Travel Register System
 
-## Brief User Guide & Workflow
-
 ---
 
 # Experimental / Beta Notice
