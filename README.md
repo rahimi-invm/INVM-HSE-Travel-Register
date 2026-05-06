@@ -137,6 +137,8 @@ The system:
 * Updates approval status
 * Locks controlled changes
 
+After submitting for approval, coordinators are encouraged to inform their assigned approver directly to help ensure timely review and approval processing.
+
 ---
 
 ## Approval Review
